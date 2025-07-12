@@ -34,6 +34,7 @@ A Python script running in **Google Colab**:
 | `keras_model.h5` | Trained model |
 | `labels.txt` | Class labels |
 | `fruit_classifier.ipynb` | Google Colab notebook with full code |
+|`test.jpg` | Test image that was uploaded to the model |
 | `result-fruit-classifier.png` | Sample output after prediction |
 
 ---
@@ -44,6 +45,14 @@ A Python script running in **Google Colab**:
  Confidence Score: 97.95%
 
  
+---
+
+##  Test Image Used
+
+This is the test image that was uploaded to the model:
+
+![Test Image](test.jpg)
+
 ---
 
 ##  Compatibility
